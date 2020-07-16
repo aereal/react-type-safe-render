@@ -3,7 +3,6 @@
   "version": "1.0.0-prerelease.3",
   "access": "public",
   "license": "MIT",
-  "main": "index.js",
   "author": "aereal <aereal@aereal.org>",
   "homepage": "https://github.com/aereal/react-type-safe-render",
   "repository": {
@@ -19,6 +18,14 @@
   "publishConfig": {
     "access": "public"
   },
+  "scripts": {
+    "build": "tsc -p ."
+  },
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "files": [
+    "dist/*"
+  ],
   "eslintConfig": {
     "extends": [
       "eslint:recommended",
