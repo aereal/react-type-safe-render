@@ -18,4 +18,7 @@ interface SafeRenderer {
   (element: ReactElement[], container: SafeContainer, callback?: Callback): void;
 }
 
+/**
+ * safeRender is actually same as render from react-dom but differs in that second argument is not nullable.
+ */
 export const safeRender: SafeRenderer = render;
