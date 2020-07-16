@@ -1,3 +1,5 @@
+![npm-badge][npm-badge]
+
 # eslint-config-react-type-safe-render
 
 ## Installation
@@ -19,3 +21,5 @@ yarn add -D @aereal/eslint-config-react-type-safe-render
   ]
 }
 ```
+
+[npm-badge]: https://img.shields.io/npm/v/@aereal/eslint-config-react-type-safe-render
