@@ -2,5 +2,9 @@
   "name": "react-type-safe-render",
   "version": "1.0.0",
   "author": "aereal <aereal@aereal.org>",
-  "license": "MIT"
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/@aereal/*"
+  ]
 }
