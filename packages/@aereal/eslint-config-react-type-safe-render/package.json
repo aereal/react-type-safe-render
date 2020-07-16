@@ -1,6 +1,6 @@
 {
   "name": "@aereal/eslint-config-react-type-safe-render",
-  "version": "1.0.0-prerelease.0",
+  "version": "1.0.0-prerelease.1",
   "access": "public",
   "license": "MIT",
   "main": "index.js",
