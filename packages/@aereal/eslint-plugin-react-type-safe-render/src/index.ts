@@ -5,4 +5,4 @@ const config = {
     "no-react-dom-render": rule,
   },
 }
-export default config
+module.exports = config
