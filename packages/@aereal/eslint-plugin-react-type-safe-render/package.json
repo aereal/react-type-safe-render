@@ -1,0 +1,22 @@
+{
+  "name": "@aereal/eslint-plugin-react-type-safe-render",
+  "version": "1.0.0-prerelease.3",
+  "access": "public",
+  "license": "MIT",
+  "main": "index.js",
+  "author": "aereal <aereal@aereal.org>",
+  "homepage": "https://github.com/aereal/react-type-safe-render",
+  "repository": {
+    "url": "https://github.com/aereal/react-type-safe-render"
+  },
+  "bugs": {
+    "url": "https://github.com/aereal/react-type-safe-render/issues"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
+}
