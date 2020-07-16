@@ -1,6 +1,6 @@
 {
   "name": "@aereal/react-type-safe-render",
-  "version": "1.0.0-prerelease",
+  "version": "1.0.0-prerelease.0",
   "access": "public",
   "license": "MIT",
   "scripts": {
