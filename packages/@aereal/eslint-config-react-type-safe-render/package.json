@@ -16,6 +16,9 @@
     "eslint",
     "eslintconfig"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "peerDependencies": {
     "eslint": ">= 6.0.0"
   },

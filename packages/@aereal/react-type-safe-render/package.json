@@ -15,6 +15,9 @@
     "react",
     "typescript"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "build": "tsc -p ."
   },
