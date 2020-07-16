@@ -3,6 +3,7 @@
   "version": "1.0.0-prerelease.0",
   "access": "public",
   "license": "MIT",
+  "main": "index.js",
   "peerDependencies": {
     "eslint": ">= 6.0.0"
   },
