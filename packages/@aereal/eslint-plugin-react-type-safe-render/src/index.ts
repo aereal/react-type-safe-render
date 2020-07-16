@@ -1,8 +1,22 @@
 import { rule } from "./rule"
 
+const pluginName = "@aereal/react-type-safe-render"
+const ruleName = "no-react-dom-render"
+const qualifiedRuleName = `${pluginName}/${ruleName}`
+
 const config = {
+  configs: [
+    {
+      recommended: {
+        plugins: [pluginName],
+        rules: {
+          [qualifiedRuleName]: "error",
+        },
+      },
+    },
+  ],
   rules: {
-    "no-react-dom-render": rule,
+    [ruleName]: rule,
   },
 }
 module.exports = config
