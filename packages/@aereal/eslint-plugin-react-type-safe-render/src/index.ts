@@ -5,16 +5,14 @@ const ruleName = "no-react-dom-render"
 const qualifiedRuleName = `${pluginName}/${ruleName}`
 
 const config = {
-  configs: [
-    {
-      recommended: {
-        plugins: [pluginName],
-        rules: {
-          [qualifiedRuleName]: "error",
-        },
+  configs: {
+    recommended: {
+      plugins: [pluginName],
+      rules: {
+        [qualifiedRuleName]: "error",
       },
     },
-  ],
+  },
   rules: {
     [ruleName]: rule,
   },
