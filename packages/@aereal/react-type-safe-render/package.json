@@ -3,6 +3,18 @@
   "version": "1.0.0-prerelease.0",
   "access": "public",
   "license": "MIT",
+  "author": "aereal <aereal@aereal.org>",
+  "homepage": "https://github.com/aereal/react-type-safe-render",
+  "repository": {
+    "url": "https://github.com/aereal/react-type-safe-render"
+  },
+  "bugs": {
+    "url": "https://github.com/aereal/react-type-safe-render/issues"
+  },
+  "keywords": [
+    "react",
+    "typescript"
+  ],
   "scripts": {
     "build": "tsc -p ."
   },

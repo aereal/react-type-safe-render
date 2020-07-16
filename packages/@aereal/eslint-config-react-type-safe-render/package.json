@@ -4,6 +4,18 @@
   "access": "public",
   "license": "MIT",
   "main": "index.js",
+  "author": "aereal <aereal@aereal.org>",
+  "homepage": "https://github.com/aereal/react-type-safe-render",
+  "repository": {
+    "url": "https://github.com/aereal/react-type-safe-render"
+  },
+  "bugs": {
+    "url": "https://github.com/aereal/react-type-safe-render/issues"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
   "peerDependencies": {
     "eslint": ">= 6.0.0"
   },
