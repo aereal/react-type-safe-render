@@ -1,4 +1,4 @@
-![npm-badge][npm-badge]
+[![npm-badge][npm-badge]][npm-permalink]
 
 # react-type-safe-render
 
@@ -46,3 +46,4 @@ safeRender(
 
 [npm-badge]: https://img.shields.io/npm/v/@aereal/react-type-safe-render
 [eslint-config-react-type-safe-render]: ../eslint-config-react-type-safe-render
+[npm-permalink]: https://www.npmjs.com/package/@aereal/react-type-safe-render
