@@ -75,7 +75,7 @@
     "printWidth": 120
   },
   "devDependencies": {
-    "@types/eslint": "^7.2.2",
+    "@types/eslint": "^7.2.3",
     "@typescript-eslint/eslint-plugin": "^3.6.1",
     "@typescript-eslint/parser": "^3.6.1",
     "eslint": "^7.4.0",
