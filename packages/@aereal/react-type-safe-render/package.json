@@ -27,7 +27,7 @@
     "dist/*"
   ],
   "devDependencies": {
-    "@types/react": "^16.14.0",
+    "@types/react": "^17.0.52",
     "@types/react-dom": "^16.9.9",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
